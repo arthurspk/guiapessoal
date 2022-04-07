@@ -30,11 +30,39 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 📚 ÍNDICE
 
+[🗺️ Roadmaps](#-roadmaps) <br>
+[📚 Recomendação de livros](#-recomendação-de-livros) <br>
+[🛠️ Ferramentas & Desafios](#-ferramentas-e-desafios) <br>
+
+## Anotações & Estudo
 
 ![Anotação de estudos](./images/Bdn.jpg)
 <hr>
 
-[🗺️ Roadmaps](#-roadmaps) <br>
-[🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
-[📚 Recomendação de livros](#-recomendação-de-livros) <br>
-[🛠️ Ferramentas & Desafios](#-ferramentas-e-desafios) <br>
+## 🗺️ Roadmaps
+
+## 📚 Recomendação de livros
+
+## Documentações
+
+- [Documentação HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP)
+- [Documentação JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Documentação Node.js](https://nodejs.org/pt-br/docs/)
+- [Documentação de React.js](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Documentação de Express.js](https://expressjs.com/pt-br/)
+- [Documentação Serveless](https://www.serverless.com/framework/docs)
+- [Documentação Amazon DynamoDB](https://docs.aws.amazon.com/pt_br/dynamodb/?id=docs_gateway)
+
+
+## Artigos 
+
+## ◾ HTTP
+
+> O Hypertext Transfer Protocol, sigla HTTP é um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos. Ele é a base para a comunicação de dados da World Wide Web.
+
+- [MDN - HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+- [HTTP Curso - Rocketseat](https://app.rocketseat.com.br/node/guia-estelar-de-http) - Nesse curso iremos estudar sobre o protocolo HTTP, para entender fluxos de mensagens cliente-servidor, saber utilizar o DevTools, conceitos como RI e RL, mensagens de request e response, métodos HTTP, entre outros.Nesse curso iremos estudar sobre o protocolo HTTP, para entender fluxos de mensagens cliente-servidor, saber utilizar o DevTools, conceitos como RI e RL, mensagens de request e response, métodos HTTP, entre outros.
+- [HTTP - Rocketcontent](https://rockcontent.com/br/blog/http/) - Artigo para entender o que é HTTP e o quão importante esse protocolo é para o seu site
+- [HTTP - Canal Tech](https://canaltech.com.br/internet/o-que-e-http/) - O que é HTTP, como funciona, e sua necessidade.
+
+

@@ -28,6 +28,13 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Guia do Desenvolvedor Front-end](https://github.com/arthurspk/guiadofrontend)
 - [Guia do Desenvolvedor Back-end](https://github.com/arthurspk/guiadobackend)
 
+## 📚 ÍNDICE
+
+
 ![Anotação de estudos](./images/Bdn.jpg)
 <hr>
 
+[🗺️ Roadmaps](#-roadmaps) <br>
+[🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
+[📚 Recomendação de livros](#-recomendação-de-livros) <br>
+[🛠️ Ferramentas & Desafios](#-ferramentas-e-desafios) <br>

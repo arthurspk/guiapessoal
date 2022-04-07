@@ -22,3 +22,5 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 </sub>
 
 ![Anotação de estudos](./images/Bdn.jpg)
+<hr>
+

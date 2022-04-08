@@ -41,20 +41,43 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 🗺️ Roadmaps
 
+- [Roadmap HTTP](https://frontendmasters.com/guides/learning-roadmap/http/)
+- [Roadmap JavaScript](https://www.origamid.com/slide/javascript-completo-es6/#/0101-javascript-completo-es6/)
+- [Roadmap Node.js](https://github.com/aliyr/Nodejs-Developer-Roadmap/blob/master/ReadMe-PT.md)
+- [Roadmap React.js](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-PTBR.md)
+- [Roadmap Express.js](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction)
+- [Roadmap de GraphQL](https://graphql.org/learn/)
+
 ## 📚 Recomendação de livros
 
+- [Aprendendo Node: Usando JavaScript no Servidor](https://www.amazon.com.br/Aprendendo-Node-Usando-JavaScript-Servidor/dp/8575225405/ref=asc_df_8575225405/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=5817001050617033078&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-397827438661&psc=1)
+- [Padrões JavaScript](https://www.amazon.com.br/Padr%C3%B5es-Javascript-Stoyan-Stefanov/dp/857522266X/ref=asc_df_857522266X/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=5817001050617033078&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-811020652000&psc=1)
+- [JavaScript: O Guia Definitivo](https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X/ref=asc_df_856583719X/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=5817001050617033078&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-812161948788&psc=1)
+- [Introdução ao GraphQL: Busca de Dados com Abordagem Declarativa Para Aplicações web Modernas](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Graphql-Abordagem-Declarativa-Aplica%C3%A7%C3%B5es/dp/8575227033/ref=asc_df_8575227033/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=11431230333694810051&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-811137648688&psc=1)
+- [Construindo APIs REST com Node.js: Caio Ribeiro Pereira](https://www.amazon.com.br/Construindo-APIs-REST-com-Node-js-ebook/dp/B01C7TGGHC)
+- [REST. Construa API's Inteligentes de Maneira Simples](https://www.amazon.com.br/REST-Construa-Inteligentes-Maneira-Simples/dp/8566250370)
+- [GraphQL: A revolucionária linguagem de consulta e manipulação de dados para APIs](https://www.amazon.com.br/GraphQL-revolucion%C3%A1ria-linguagem-consulta-manipula%C3%A7%C3%A3o-ebook/dp/B07RMZRG4Y/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
+
 ## Documentações
+
+> Documentações oficias das tecnologias abaixo:
 
 - [Documentação HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP)
 - [Documentação JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Documentação Node.js](https://nodejs.org/pt-br/docs/)
-- [Documentação de React.js](https://pt-br.reactjs.org/docs/getting-started.html)
-- [Documentação de Express.js](https://expressjs.com/pt-br/)
+- [Documentação React.js](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Documentação Express.js](https://expressjs.com/pt-br/)
 - [Documentação Serveless](https://www.serverless.com/framework/docs)
 - [Documentação Amazon DynamoDB](https://docs.aws.amazon.com/pt_br/dynamodb/?id=docs_gateway)
-
+- [Documentação GraphQL](https://docs.aws.amazon.com/pt_br/appsync/latest/devguide/graphql-overview.html)
+- [Documentação NPM](https://docs.npmjs.com/)
+- [Documentação Yarn](https://classic.yarnpkg.com/lang/en/docs/)
 
 ## Artigos 
+
+- [Documentação automática de APIs em Node.js com Swagger](https://davibaltar.medium.com/documenta%C3%A7%C3%A3o-autom%C3%A1tica-de-apis-em-node-js-eb03041c643b)
+- []()
 
 ## ◾ HTTP
 

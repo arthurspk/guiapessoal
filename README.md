@@ -86,5 +86,74 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [HTTP Curso - Rocketseat](https://app.rocketseat.com.br/node/guia-estelar-de-http) - Nesse curso iremos estudar sobre o protocolo HTTP, para entender fluxos de mensagens cliente-servidor, saber utilizar o DevTools, conceitos como RI e RL, mensagens de request e response, métodos HTTP, entre outros.Nesse curso iremos estudar sobre o protocolo HTTP, para entender fluxos de mensagens cliente-servidor, saber utilizar o DevTools, conceitos como RI e RL, mensagens de request e response, métodos HTTP, entre outros.
 - [HTTP - Rocketcontent](https://rockcontent.com/br/blog/http/) - Artigo para entender o que é HTTP e o quão importante esse protocolo é para o seu site
 - [HTTP - Canal Tech](https://canaltech.com.br/internet/o-que-e-http/) - O que é HTTP, como funciona, e sua necessidade.
+- [HTTP - Conceitos essenciais](https://www.youtube.com/watch?v=CXzbUwK6lc8) - Conceitos essencias do HTTP
+- [HTTP - Dicionário do Programador](https://www.youtube.com/watch?v=hwttZtWkXTk)
+- [HTTP & HTTPS](https://www.youtube.com/watch?v=G9VlDTshk-k)
 
+## ◾ APIs
 
+> O conceito de API nada mais é do que uma forma de comunicação entre sistemas. Elas permitem a integração entre dois sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro, sem a necessidade de o sistema que consome a API conhecer detalhes de implementação do software, as APIs permitem que o usuário final utilize um aplicativo, software ou até uma simples planilha, consultando, alterando e armazenando dados de diversos sistemas, sem que o usuário precise acessá-los diretamente.
+
+- [MDN - APIs](https://developer.mozilla.org/pt-BR/docs/Web/API) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+- [APIs Públicas](https://github.com/public-apis/public-apis) - Uma lista coletiva de APIs gratuitas para uso em software e desenvolvimento web
+- [APIs - Rocketseat](https://app.rocketseat.com.br/node/trabalhando-com-apis)
+- [Criando uma API do Zero com NodeJs](https://www.youtube.com/watch?v=WejbsEnvvRQ&list=PLizN3WA8HR1wWcGsl13Q4Jas4tp-sQaZe&index=1&t=889s)
+- []()
+
+## JavaScript
+
+- [JavaScript Completo ES6 - Origamid](https://www.origamid.com/curso/javascript-completo-es6/)
+- [JavaScript Completo ES6 - B7Web](https://alunos.b7web.com.br/curso/javascript/introducao)
+
+## Node 
+
+- [W3Schools - Node.js](https://www.w3schools.com/nodejs/default.asp)
+- [Node.js - Rocketseat](https://app.rocketseat.com.br/node/node-js-o-motor-da-nave)
+- [Node.js + EJS](https://app.rocketseat.com.br/node/node-js-ejs-html-inteligente)
+- [Curso de Node.js Para Completos Iniciantes](https://www.youtube.com/watch?v=IOfDoyP1Aq0)
+- [Curso Completo do Desenvolvedor NodeJS e MongoDB](https://www.udemy.com/course/curso-completo-do-desenvolvedor-nodejs/)
+- [Javascript & Node.js: Do baixo ao alto nível](https://www.youtube.com/watch?v=M6wLBpzSvqw&t=1s)
+- [Node.js: Iniciando da teoria à prática](https://www.youtube.com/watch?v=DiXbJL3iWVs&t=1s)
+- [Node.js em 2022](https://www.youtube.com/watch?v=fm4_EuCsQwg)
+- [API NodeJS + Express + Mongo | Estrutura e cadastro  ](https://www.youtube.com/watch?v=BN_8bCfVp88&t=1s)
+- [Crie uma API RESTful com Node.js e MongoDB | CRUD com Node, Express e Mongoose](https://www.youtube.com/watch?v=K5QaTfE5ylk)
+- [Curso de Node.js - Playlist 1](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+- [REST API com Node.js - Playlist 2](https://www.youtube.com/playlist?list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR)
+- [Criando APIs com NodeJs - Playlist 3](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn)
+- [Do zero a produção: contrução de API Node.js com TypeScript - Playlist 4](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh)
+- [Node.js & Lógica de Programação - Playlist 5](https://www.youtube.com/playlist?list=PLfvOpw8k80WqZsXphHeeSVNKr6EovKir-)
+- [Node.js & MongoDB - Playlist 6](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V)
+- [API em Node.js + TS com Programação Funcional - Playlist 7](https://www.youtube.com/playlist?list=PLr4c053wuXU_2sufpBUxu3bLRBbyWt4lX)
+
+## React
+
+- [React - Origamid](https://www.origamid.com/curso/react-completo/)
+- [Redux com React - Origamid](https://www.origamid.com/curso/redux-com-react/)
+- 
+
+## Express
+
+## GraphQL
+
+- [Curso de GraphQL e Apollo Server + Apollo Client](https://www.udemy.com/course/curso-de-graphql-e-apollo-server-client/)
+- [GraphQL: Criando APIs Profissionais e Flexíveis](https://www.udemy.com/course/graphql-criando-apis-profissionais-e-flexiveis/)
+
+## Serveless
+
+- [Desenvolvimento AWS 2020 com foco em Serverless](https://www.udemy.com/course/serverless-aws/)
+- [Amazon Web Services (AWS): Essencial](https://www.udemy.com/course/amazon-web-services-essencial/)
+
+## DynamoDB
+
+- [Amazon DynamoDB para Iniciantes - Aprenda Banco NoSQL da AWS](https://www.udemy.com/course/amazon-aws-dynamodb-para-iniciantes/#reviews)
+
+## NPM
+
+- [Automação Front-end com NPM - Origamid](https://www.origamid.com/curso/automacao-front-end-com-npm/)
+- [Uma introdução ao NPM para desenvolvedores front end.](https://www.youtube.com/watch?v=QYH-vX_7Cfo)
+- [NPM - O gerenciador de pacotes do Node.js](https://www.youtube.com/watch?v=tFqsmNrWW0M)
+- [NodeJS e NPM - Instalando e Configurando](https://www.youtube.com/watch?v=7iSylg2UvU0)
+- [Como Publicar Pacotes no NPM](https://www.youtube.com/watch?v=OOecQMZMkqY)
+- [Node.js: Como publicar pacotes NPM - Playlist](https://www.youtube.com/playlist?list=PLfvOpw8k80WooPwWNKCMrQHvWRpeKf7Cy)
+
+## Yarn

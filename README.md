@@ -91,6 +91,8 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## Artigos 
 
+> Artigos, guias & dicas para as linguagens desse guia
+
 - [Documentação automática de APIs em Node.js com Swagger](https://davibaltar.medium.com/documenta%C3%A7%C3%A3o-autom%C3%A1tica-de-apis-em-node-js-eb03041c643b)
 
 ## ◾ HTTP
@@ -102,8 +104,8 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [HTTP - Rocketcontent](https://rockcontent.com/br/blog/http/) - Artigo para entender o que é HTTP e o quão importante esse protocolo é para o seu site
 - [HTTP - Canal Tech](https://canaltech.com.br/internet/o-que-e-http/) - O que é HTTP, como funciona, e sua necessidade.
 - [HTTP - Conceitos essenciais](https://www.youtube.com/watch?v=CXzbUwK6lc8) - Conceitos essencias do HTTP
-- [HTTP - Dicionário do Programador](https://www.youtube.com/watch?v=hwttZtWkXTk)
-- [HTTP & HTTPS](https://www.youtube.com/watch?v=G9VlDTshk-k)
+- [HTTP - Dicionário do Programador](https://www.youtube.com/watch?v=hwttZtWkXTk) - HTTP do dicionário do programador
+- [HTTP & HTTPS](https://www.youtube.com/watch?v=G9VlDTshk-k) - Diferença entre HTTP & HTTPs 
 
 ## ◾ APIs
 

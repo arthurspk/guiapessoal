@@ -30,16 +30,17 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 📚 ÍNDICE
 
+[🧢 Repositórios individuais ](#-repositórios-individuais)
 [🗺️ Roadmaps](#-roadmaps) <br>
 [📚 Recomendação de livros](#-recomendação-de-livros) <br>
-[🛠️ Ferramentas & Desafios](#-ferramentas-e-desafios) <br>
+[📃 Documentações](#-documentações) <br>
 
 ## Anotações & Estudo
 
 ![Anotação de estudos](./images/Bdn.jpg)
 <hr>
 
-## Repositórios Indivuais 
+## 🧢 Repositórios individuais 
 
 - [HTTP](https://github.com/arthurspk/guiapessoal/blob/main/guias/http.md)
 - [API](https://github.com/arthurspk/guiapessoal/blob/main/guias/api.md)

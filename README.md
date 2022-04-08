@@ -123,6 +123,14 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [JavaScript Completo ES6 - B7Web](https://alunos.b7web.com.br/curso/javascript/introducao) - Curso de JavaScript ES6 do B7Web
 - [Cursos de JavaScript](https://github.com/arthurspk/guiadevbrasil#-cursos-de-javascript) - Cursos de JavaScript do repositório geral do Guia Dev Brasil
 
+## React
+
+> O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais. É utilizado nos sites da Netflix, Imgur, Feedly, Airbnb, SeatGeek, HelloSign, Walmart e outros.
+
+- [React - Origamid](https://www.origamid.com/curso/react-completo/) - Curso de React completo da Origamid
+- [Redux com React - Origamid](https://www.origamid.com/curso/redux-com-react/) - Curso de Redux com React da Origamid
+- [Cursos de React - Guia Extenso](https://github.com/arthurspk/guiadevbrasil#-cursos-de-react) - Cursos de React do repositório geral do Guia Dev Brasil.
+
 ## Node 
 
 > O Node. js é um ambiente de execução na porta 80 padrão,baseado na pilha da web aberta (HTML, CSS e JS). Ou seja, é uma plataforma em que é possível criar aplicações Javascript sem depender de um browser para a execução. Sua execução em single-thread não exige resposta a cada requisição.
@@ -145,11 +153,6 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Node.js & MongoDB - Playlist 6](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V)
 - [API em Node.js + TS com Programação Funcional - Playlist 7](https://www.youtube.com/playlist?list=PLr4c053wuXU_2sufpBUxu3bLRBbyWt4lX)
 
-## React
-
-- [React - Origamid](https://www.origamid.com/curso/react-completo/) - Curso de React completo da Origamid
-- [Redux com React - Origamid](https://www.origamid.com/curso/redux-com-react/) - Curso de Redux com React da Origamid
-- [Cursos de React - Guia Extenso](https://github.com/arthurspk/guiadevbrasil#-cursos-de-react) - Cursos de React do repositório geral do Guia Dev Brasil.
 
 ## Express
 

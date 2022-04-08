@@ -34,18 +34,18 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 [🗺️ Roadmaps](#-roadmaps) <br>
 [📚 Recomendação de livros](#-recomendação-de-livros) <br>
 [📜 Documentação Oficial](#-documentação-oficial) <br>
-[📃 Artigos](#-artigos)
-[🐶 HTTP](#-http)
-[🐺 APIs](#-apis)
-[🐱 JavaScript](#-javascript)
-[🦁 React.js](#-react)
-[🐯 Node.js](#-node)
-[🦊 Express](#-express)
-[🦝 GraphQL](#-graphql)
-[🐷 AWS Serverless ](#-serverless)
-[🐨 Amazon DynamoDB](#-dynamodb)
-[🐼 NPM](#-npm)
-[🐻 Yarn](#-yarn)
+[📃 Artigos](#-artigos) <br>
+[🐶 HTTP](#-http) <br>
+[🐺 APIs](#-apis) <br>
+[🐱 JavaScript](#-javascript) <br>
+[🦁 React.js](#-react) <br>
+[🐯 Node.js](#-node) <br>
+[🦊 Express](#-express) <br>
+[🦝 GraphQL](#-graphql) <br>
+[🐷 AWS Serverless ](#-serverless) <br>
+[🐨 Amazon DynamoDB](#-dynamodb) <br>
+[🐼 NPM](#-npm) <br>
+[🐻 Yarn](#-yarn) <br>
 
 ## Anotações & Estudo
 

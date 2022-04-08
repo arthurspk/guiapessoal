@@ -39,6 +39,21 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ![Anotação de estudos](./images/Bdn.jpg)
 <hr>
 
+## Repositórios Indivuais 
+
+- [HTTP](https://github.com/arthurspk/guiapessoal/blob/main/guias/http.md)
+- [API](https://github.com/arthurspk/guiapessoal/blob/main/guias/api.md)
+- [Gereciamento de Pacote](https://github.com/arthurspk/guiapessoal/blob/main/guias/npm.md)
+- [JavaScript](https://github.com/arthurspk/guiapessoal/blob/main/guias/javascript.md)
+- [Node.js](https://github.com/arthurspk/guiapessoal/blob/main/guias/nodejs.md)
+- [Express.js](https://github.com/arthurspk/guiapessoal/blob/main/guias/expressjs.md)
+- [React.js]()
+- [GraphQL](https://github.com/arthurspk/guiapessoal/blob/main/guias/graphql.md)
+- [Serveless](https://github.com/arthurspk/guiapessoal/blob/main/guias/serveless.md)
+- [DynamoDB](https://github.com/arthurspk/guiapessoal/blob/main/guias/dynamodb.md)
+- [Estrutura de Dados](https://github.com/arthurspk/guiapessoal/blob/main/guias/dados.md)
+- [Lógica](https://github.com/arthurspk/guiapessoal/blob/main/guias/logica.md)
+
 ## 🗺️ Roadmaps
 
 - [Roadmap HTTP](https://frontendmasters.com/guides/learning-roadmap/http/)
@@ -96,14 +111,17 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 - [MDN - APIs](https://developer.mozilla.org/pt-BR/docs/Web/API) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
 - [APIs Públicas](https://github.com/public-apis/public-apis) - Uma lista coletiva de APIs gratuitas para uso em software e desenvolvimento web
-- [APIs - Rocketseat](https://app.rocketseat.com.br/node/trabalhando-com-apis)
-- [Criando uma API do Zero com NodeJs](https://www.youtube.com/watch?v=WejbsEnvvRQ&list=PLizN3WA8HR1wWcGsl13Q4Jas4tp-sQaZe&index=1&t=889s)
-- []()
+- [APIs - Rocketseat](https://app.rocketseat.com.br/node/trabalhando-com-apis) - Curso sobre criação de API's no back-end e consumo de API's no front-end
+- [Criando uma API do Zero com NodeJs](https://www.youtube.com/watch?v=WejbsEnvvRQ&list=PLizN3WA8HR1wWcGsl13Q4Jas4tp-sQaZe&index=1&t=889s) - Como criar uma API do zero utilizando o Node.js
+
 
 ## JavaScript
 
-- [JavaScript Completo ES6 - Origamid](https://www.origamid.com/curso/javascript-completo-es6/)
-- [JavaScript Completo ES6 - B7Web](https://alunos.b7web.com.br/curso/javascript/introducao)
+> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+
+- [JavaScript Completo ES6 - Origamid](https://www.origamid.com/curso/javascript-completo-es6/) - Curso de JavaScript ES6 da Origamid
+- [JavaScript Completo ES6 - B7Web](https://alunos.b7web.com.br/curso/javascript/introducao) - Curso de JavaScript ES6 do B7Web
+- [Cursos de JavaScript](https://github.com/arthurspk/guiadevbrasil#-cursos-de-javascript) - Cursos de JavaScript do repositório geral do Guia Dev Brasil
 
 ## Node 
 
@@ -157,3 +175,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Node.js: Como publicar pacotes NPM - Playlist](https://www.youtube.com/playlist?list=PLfvOpw8k80WooPwWNKCMrQHvWRpeKf7Cy)
 
 ## Yarn
+
+> O Yarn é um sistema de empacotamento de software desenvolvido em 2016 pelo Facebook para o ambiente de tempo de execução JavaScript Node.js que fornece velocidade, consistência, estabilidade e segurança como uma alternativa ao npm (gerenciador de pacotes).
+
+- [Yarn VS NPM, qual é melhor?](https://www.youtube.com/watch?v=vxES6rbrd-U)

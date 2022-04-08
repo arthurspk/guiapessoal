@@ -47,7 +47,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [JavaScript](https://github.com/arthurspk/guiapessoal/blob/main/guias/javascript.md)
 - [Node.js](https://github.com/arthurspk/guiapessoal/blob/main/guias/nodejs.md)
 - [Express.js](https://github.com/arthurspk/guiapessoal/blob/main/guias/expressjs.md)
-- [React.js]()
+- [React.js](https://github.com/arthurspk/guiapessoal/blob/main/guias/react.md)
 - [GraphQL](https://github.com/arthurspk/guiapessoal/blob/main/guias/graphql.md)
 - [Serveless](https://github.com/arthurspk/guiapessoal/blob/main/guias/serveless.md)
 - [DynamoDB](https://github.com/arthurspk/guiapessoal/blob/main/guias/dynamodb.md)
@@ -125,6 +125,8 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## Node 
 
+> O Node. js é um ambiente de execução na porta 80 padrão,baseado na pilha da web aberta (HTML, CSS e JS). Ou seja, é uma plataforma em que é possível criar aplicações Javascript sem depender de um browser para a execução. Sua execução em single-thread não exige resposta a cada requisição.
+
 - [W3Schools - Node.js](https://www.w3schools.com/nodejs/default.asp)
 - [Node.js - Rocketseat](https://app.rocketseat.com.br/node/node-js-o-motor-da-nave)
 - [Node.js + EJS](https://app.rocketseat.com.br/node/node-js-ejs-html-inteligente)
@@ -145,27 +147,48 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## React
 
-- [React - Origamid](https://www.origamid.com/curso/react-completo/)
-- [Redux com React - Origamid](https://www.origamid.com/curso/redux-com-react/)
-- 
+- [React - Origamid](https://www.origamid.com/curso/react-completo/) - Curso de React completo da Origamid
+- [Redux com React - Origamid](https://www.origamid.com/curso/redux-com-react/) - Curso de Redux com React da Origamid
+- [Cursos de React - Guia Extenso](https://github.com/arthurspk/guiadevbrasil#-cursos-de-react) - Cursos de React do repositório geral do Guia Dev Brasil.
 
 ## Express
 
+> Express.js é um framework para Node.js que fornece recursos mínimos para construção de servidores web. Foi lançado como software livre e de código aberto sob a Licença MIT. É um dos mais populares frameworks para servidores em Node.js
+
+- [Curso Introdutório ao Express](https://www.youtube.com/watch?v=pohvlFd0byI)
+
 ## GraphQL
+
+> GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada publicamente em 2015. É considerada uma alternativa para arquiteturas REST, além de oferecer um serviço runtime para rodar comandos e consumir uma API
 
 - [Curso de GraphQL e Apollo Server + Apollo Client](https://www.udemy.com/course/curso-de-graphql-e-apollo-server-client/)
 - [GraphQL: Criando APIs Profissionais e Flexíveis](https://www.udemy.com/course/graphql-criando-apis-profissionais-e-flexiveis/)
+- [Curso completo de GraphQL](https://www.youtube.com/playlist?list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j)
+- [API com GraphQL](https://www.youtube.com/playlist?list=PLdPPE0hUkt0okslA6u6hXw_2wQ6WM4d2-)
+- [Curso de GraphQL - Mateus Silva](https://www.youtube.com/playlist?list=PLPXWI3llyMiK9uw7tfljM2hnQl2qu6CeT)
 
 ## Serveless
 
+> O AWS Serverless Application Repository é um repositório gerenciado para aplicativos sem servidor. Ele permite que equipes, organizações e desenvolvedores individuais armazenem e reutilizem aplicativos e montem e implantem com facilidade arquiteturas sem servidor de novas maneiras eficientes.
+
 - [Desenvolvimento AWS 2020 com foco em Serverless](https://www.udemy.com/course/serverless-aws/)
 - [Amazon Web Services (AWS): Essencial](https://www.udemy.com/course/amazon-web-services-essencial/)
+- [Serverless, o mínimo que todo dev precisa saber com Erick Wendel](https://www.youtube.com/watch?v=WG-Vi9MSS3c)
+- [Serverless com NodeJS e AWS Lambda | Diego Fernandes](https://www.youtube.com/watch?v=jiP45rEOEbA&t=1052s)
+- [Arquitetura Serverless com Serverless Framework, AWS Lambda e API Gateway](https://www.youtube.com/watch?v=ktH_HhQDgLY)
 
 ## DynamoDB
 
+> Amazon DynamoDB é um serviço de banco de dados NoSQL proprietário totalmente gerenciado que oferece suporte a estruturas de dados de documentos e valores-chave e é oferecido pela Amazon.com como parte do portfólio da Amazon Web Services.
+
 - [Amazon DynamoDB para Iniciantes - Aprenda Banco NoSQL da AWS](https://www.udemy.com/course/amazon-aws-dynamodb-para-iniciantes/#reviews)
+- [Como modelar com DynamoDB](https://www.youtube.com/watch?v=kSnpuKr3Ajw&t=3s)
+- [AWS do Zero ao Expert](https://www.youtube.com/playlist?list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz)
+- [DynamoDB - Aula Completa](https://www.youtube.com/watch?v=nSxQdZSvxU8)
 
 ## NPM
+
+> npm é um gerenciador de pacotes para o Node.JS npm, Inc. é uma subsidiária do GitHub, que fornece hospedagem para desenvolvimento de software e controle de versão com o uso do Git. npm é o gerenciador de pacotes padrão para o ambiente de tempo de execução JavaScript Node.js.
 
 - [Automação Front-end com NPM - Origamid](https://www.origamid.com/curso/automacao-front-end-com-npm/)
 - [Uma introdução ao NPM para desenvolvedores front end.](https://www.youtube.com/watch?v=QYH-vX_7Cfo)

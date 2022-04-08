@@ -42,6 +42,8 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 🧢 Repositórios individuais 
 
+> Meus repositórios individuais e pessoal para estudo das tecnologias abaixo
+
 - [HTTP](https://github.com/arthurspk/guiapessoal/blob/main/guias/http.md)
 - [API](https://github.com/arthurspk/guiapessoal/blob/main/guias/api.md)
 - [Gereciamento de Pacote](https://github.com/arthurspk/guiapessoal/blob/main/guias/npm.md)
@@ -57,6 +59,8 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 🗺️ Roadmaps
 
+> Roadmaps da comunidade para as tecnologias abaixo
+
 - [Roadmap HTTP](https://frontendmasters.com/guides/learning-roadmap/http/)
 - [Roadmap JavaScript](https://www.origamid.com/slide/javascript-completo-es6/#/0101-javascript-completo-es6/)
 - [Roadmap Node.js](https://github.com/aliyr/Nodejs-Developer-Roadmap/blob/master/ReadMe-PT.md)
@@ -65,6 +69,8 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Roadmap de GraphQL](https://graphql.org/learn/)
 
 ## 📚 Recomendação de livros
+
+> Recomendação de livros para me auxiliar em meus estudos
 
 - [Aprendendo Node: Usando JavaScript no Servidor](https://www.amazon.com.br/Aprendendo-Node-Usando-JavaScript-Servidor/dp/8575225405/ref=asc_df_8575225405/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=5817001050617033078&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-397827438661&psc=1)
 - [Padrões JavaScript](https://www.amazon.com.br/Padr%C3%B5es-Javascript-Stoyan-Stefanov/dp/857522266X/ref=asc_df_857522266X/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=5817001050617033078&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-811020652000&psc=1)

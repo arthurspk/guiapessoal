@@ -33,7 +33,19 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 [🧢 Repositórios individuais](#-repositórios-individuais) <br>
 [🗺️ Roadmaps](#-roadmaps) <br>
 [📚 Recomendação de livros](#-recomendação-de-livros) <br>
-[📃 Documentação Oficial](#-documentação-oficial) <br>
+[📜 Documentação Oficial](#-documentação-oficial) <br>
+[📃 Artigos](#-artigos)
+[🐶 HTTP](#-http)
+[🐺 APIs](#-apis)
+[🐱 JavaScript](#-javascript)
+[🦁 React.js](#-react)
+[🐯 Node.js](#-node)
+[🦊 Express](#-express)
+[🦝 GraphQL](#-graphql)
+[🐷 AWS Serverless ](#-serverless)
+[🐨 Amazon DynamoDB](#-dynamodb)
+[🐼 NPM](#-npm)
+[🐻 Yarn](#-yarn)
 
 ## Anotações & Estudo
 
@@ -102,7 +114,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 - [Documentação automática de APIs em Node.js com Swagger](https://davibaltar.medium.com/documenta%C3%A7%C3%A3o-autom%C3%A1tica-de-apis-em-node-js-eb03041c643b)
 
-## ◾ HTTP
+## 🐶 HTTP
 
 > O Hypertext Transfer Protocol, sigla HTTP é um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos. Ele é a base para a comunicação de dados da World Wide Web.
 
@@ -114,7 +126,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [HTTP - Dicionário do Programador](https://www.youtube.com/watch?v=hwttZtWkXTk) - HTTP do dicionário do programador
 - [HTTP & HTTPS](https://www.youtube.com/watch?v=G9VlDTshk-k) - Diferença entre HTTP & HTTPs 
 
-## ◾ APIs
+## 🐺 APIs
 
 > O conceito de API nada mais é do que uma forma de comunicação entre sistemas. Elas permitem a integração entre dois sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro, sem a necessidade de o sistema que consome a API conhecer detalhes de implementação do software, as APIs permitem que o usuário final utilize um aplicativo, software ou até uma simples planilha, consultando, alterando e armazenando dados de diversos sistemas, sem que o usuário precise acessá-los diretamente.
 
@@ -124,7 +136,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Criando uma API do Zero com NodeJs](https://www.youtube.com/watch?v=WejbsEnvvRQ&list=PLizN3WA8HR1wWcGsl13Q4Jas4tp-sQaZe&index=1&t=889s) - Como criar uma API do zero utilizando o Node.js
 
 
-## JavaScript
+## 🐱 JavaScript
 
 > JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
@@ -132,7 +144,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [JavaScript Completo ES6 - B7Web](https://alunos.b7web.com.br/curso/javascript/introducao) - Curso de JavaScript ES6 do B7Web
 - [Cursos de JavaScript](https://github.com/arthurspk/guiadevbrasil#-cursos-de-javascript) - Cursos de JavaScript do repositório geral do Guia Dev Brasil
 
-## React
+## 🦁 React
 
 > O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais. É utilizado nos sites da Netflix, Imgur, Feedly, Airbnb, SeatGeek, HelloSign, Walmart e outros.
 
@@ -140,7 +152,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Redux com React - Origamid](https://www.origamid.com/curso/redux-com-react/) - Curso de Redux com React da Origamid
 - [Cursos de React - Guia Extenso](https://github.com/arthurspk/guiadevbrasil#-cursos-de-react) - Cursos de React do repositório geral do Guia Dev Brasil.
 
-## Node 
+## 🐯 Node 
 
 > O Node. js é um ambiente de execução na porta 80 padrão,baseado na pilha da web aberta (HTML, CSS e JS). Ou seja, é uma plataforma em que é possível criar aplicações Javascript sem depender de um browser para a execução. Sua execução em single-thread não exige resposta a cada requisição.
 
@@ -163,13 +175,13 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [API em Node.js + TS com Programação Funcional - Playlist 7](https://www.youtube.com/playlist?list=PLr4c053wuXU_2sufpBUxu3bLRBbyWt4lX)
 
 
-## Express
+## 🦊 Express
 
 > Express.js é um framework para Node.js que fornece recursos mínimos para construção de servidores web. Foi lançado como software livre e de código aberto sob a Licença MIT. É um dos mais populares frameworks para servidores em Node.js
 
 - [Curso Introdutório ao Express](https://www.youtube.com/watch?v=pohvlFd0byI)
 
-## GraphQL
+## 🦝 GraphQL
 
 > GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada publicamente em 2015. É considerada uma alternativa para arquiteturas REST, além de oferecer um serviço runtime para rodar comandos e consumir uma API
 
@@ -179,7 +191,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [API com GraphQL](https://www.youtube.com/playlist?list=PLdPPE0hUkt0okslA6u6hXw_2wQ6WM4d2-)
 - [Curso de GraphQL - Mateus Silva](https://www.youtube.com/playlist?list=PLPXWI3llyMiK9uw7tfljM2hnQl2qu6CeT)
 
-## Serveless
+## 🐷 Serveless
 
 > O AWS Serverless Application Repository é um repositório gerenciado para aplicativos sem servidor. Ele permite que equipes, organizações e desenvolvedores individuais armazenem e reutilizem aplicativos e montem e implantem com facilidade arquiteturas sem servidor de novas maneiras eficientes.
 
@@ -189,7 +201,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Serverless com NodeJS e AWS Lambda | Diego Fernandes](https://www.youtube.com/watch?v=jiP45rEOEbA&t=1052s)
 - [Arquitetura Serverless com Serverless Framework, AWS Lambda e API Gateway](https://www.youtube.com/watch?v=ktH_HhQDgLY)
 
-## DynamoDB
+## 🐨 DynamoDB
 
 > Amazon DynamoDB é um serviço de banco de dados NoSQL proprietário totalmente gerenciado que oferece suporte a estruturas de dados de documentos e valores-chave e é oferecido pela Amazon.com como parte do portfólio da Amazon Web Services.
 
@@ -198,7 +210,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [AWS do Zero ao Expert](https://www.youtube.com/playlist?list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz)
 - [DynamoDB - Aula Completa](https://www.youtube.com/watch?v=nSxQdZSvxU8)
 
-## NPM
+## 🐼 NPM
 
 > npm é um gerenciador de pacotes para o Node.JS npm, Inc. é uma subsidiária do GitHub, que fornece hospedagem para desenvolvimento de software e controle de versão com o uso do Git. npm é o gerenciador de pacotes padrão para o ambiente de tempo de execução JavaScript Node.js.
 
@@ -209,7 +221,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Como Publicar Pacotes no NPM](https://www.youtube.com/watch?v=OOecQMZMkqY)
 - [Node.js: Como publicar pacotes NPM - Playlist](https://www.youtube.com/playlist?list=PLfvOpw8k80WooPwWNKCMrQHvWRpeKf7Cy)
 
-## Yarn
+## 🐻 Yarn
 
 > O Yarn é um sistema de empacotamento de software desenvolvido em 2016 pelo Facebook para o ambiente de tempo de execução JavaScript Node.js que fornece velocidade, consistência, estabilidade e segurança como uma alternativa ao npm (gerenciador de pacotes).
 

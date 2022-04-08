@@ -42,7 +42,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 [🐯 Node.js](#-node) <br>
 [🦊 Express](#-express) <br>
 [🦝 GraphQL](#-graphql) <br>
-[🐷 AWS Serverless ](#-serverless) <br>
+[🐷 AWS Serverless](#-serverless) <br>
 [🐨 Amazon DynamoDB](#-dynamodb) <br>
 [🐼 NPM](#-npm) <br>
 [🐻 Yarn](#-yarn) <br>

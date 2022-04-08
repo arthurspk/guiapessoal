@@ -33,8 +33,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 [🧢 Repositórios individuais](#-repositórios-individuais) <br>
 [🗺️ Roadmaps](#-roadmaps) <br>
 [📚 Recomendação de livros](#-recomendação-de-livros) <br>
-
-[📃 Documentos Oficiais](#-documentos) <br>
+[📃 Documentação Oficial](#-documentação-oficial) <br>
 
 ## Anotações & Estudo
 
@@ -76,9 +75,9 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [GraphQL: A revolucionária linguagem de consulta e manipulação de dados para APIs](https://www.amazon.com.br/GraphQL-revolucion%C3%A1ria-linguagem-consulta-manipula%C3%A7%C3%A3o-ebook/dp/B07RMZRG4Y/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 
-## 📃 Documentos 
+## 📃 Documentação Oficial 
 
-> Documentações oficias das tecnologias abaixo:
+> Documentação oficial das tecnologias abaixo:
 
 - [Documentação HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP)
 - [Documentação JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

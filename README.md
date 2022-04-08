@@ -108,7 +108,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Documentação NPM](https://docs.npmjs.com/)
 - [Documentação Yarn](https://classic.yarnpkg.com/lang/en/docs/)
 
-## Artigos 
+## 📃 Artigos 
 
 > Artigos, guias & dicas para as linguagens desse guia
 

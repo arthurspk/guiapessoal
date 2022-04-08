@@ -30,10 +30,10 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 📚 ÍNDICE
 
-[🧢 Repositórios individuais ](#-repositórios-individuais)
+[🧢 Repositórios individuais ](#-repositórios-individuais) <br>
 [🗺️ Roadmaps](#-roadmaps) <br>
 [📚 Recomendação de livros](#-recomendação-de-livros) <br>
-[📃 Documentações](#-documentações) <br>
+[📃 Documentações](#-documentaçoes) <br>
 
 ## Anotações & Estudo
 

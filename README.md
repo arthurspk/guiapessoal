@@ -47,7 +47,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 [🐼 NPM](#-npm) <br>
 [🐻 Yarn](#-yarn) <br>
 
-## Anotações & Estudo
+## 📝 Anotações & Estudo
 
 ![Anotação de estudos](./images/Bdn.jpg)
 <hr>

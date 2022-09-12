@@ -210,7 +210,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 🐼 NPM
 
-> npm é um gerenciador de pacotes para o Node.JS npm, Inc. é uma subsidiária do GitHub, que fornece hospedagem para desenvolvimento de software e controle de versão com o uso do Git. npm é o gerenciador de pacotes padrão para o ambiente de tempo de execução JavaScript Node.js.
+> npm é um gerenciador de pacotes para o Node.JS npm, Inc. é uma subsidiária do GitHub, que fornece hospedagem para desenvolvimento de software e controle de versão com o uso do Git. npm é o gerenciador de pacotes padrão para o ambiente de tempo de execução JavaScript Node.js
 
 - [Automação Front-end com NPM - Origamid](https://www.origamid.com/curso/automacao-front-end-com-npm/)
 - [Uma introdução ao NPM para desenvolvedores front end.](https://www.youtube.com/watch?v=QYH-vX_7Cfo)
@@ -223,4 +223,4 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 > O Yarn é um sistema de empacotamento de software desenvolvido em 2016 pelo Facebook para o ambiente de tempo de execução JavaScript Node.js que fornece velocidade, consistência, estabilidade e segurança como uma alternativa ao npm (gerenciador de pacotes).
 
-- [Yarn VS NPM, qual é a melhor?](https://www.youtube.com/watch?v=vxES6rbrd-U)
+- [Yarn VS NPM, qual é melhor?](https://www.youtube.com/watch?v=vxES6rbrd-U)

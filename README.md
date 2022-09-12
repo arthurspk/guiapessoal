@@ -10,7 +10,7 @@
 Esse roadmap é um guia de estudos particular utilizado de base para meus estudos
 das seguintes linguagens de programação, bibliotecas, frameworks e banco de dados,
 ambas as categorias possuem anotações de como estudar, documentações, cursos, e dica para
-a maior assimilação de todo o conteúdo presente nesse roadmap. 
+a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 <sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
@@ -50,9 +50,10 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 📝 Anotações & Estudo
 
 ![Anotação de estudos](./images/Bdn.jpg)
+
 <hr>
 
-## 🧢 Repositórios individuais 
+## 🧢 Repositórios individuais
 
 > Meus repositórios individuais e pessoal para estudo das tecnologias abaixo
 
@@ -92,8 +93,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [REST. Construa API's Inteligentes de Maneira Simples](https://www.amazon.com.br/REST-Construa-Inteligentes-Maneira-Simples/dp/8566250370)
 - [GraphQL: A revolucionária linguagem de consulta e manipulação de dados para APIs](https://www.amazon.com.br/GraphQL-revolucion%C3%A1ria-linguagem-consulta-manipula%C3%A7%C3%A3o-ebook/dp/B07RMZRG4Y/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
-
-## 📃 Documentação Oficial 
+## 📃 Documentação Oficial
 
 > Documentação oficial das tecnologias abaixo:
 
@@ -108,7 +108,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Documentação NPM](https://docs.npmjs.com/)
 - [Documentação Yarn](https://classic.yarnpkg.com/lang/en/docs/)
 
-## 📃 Artigos 
+## 📃 Artigos
 
 > Artigos, guias & dicas para as linguagens desse guia
 
@@ -124,7 +124,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [HTTP - Canal Tech](https://canaltech.com.br/internet/o-que-e-http/) - O que é HTTP, como funciona, e sua necessidade.
 - [HTTP - Conceitos essenciais](https://www.youtube.com/watch?v=CXzbUwK6lc8) - Conceitos essencias do HTTP
 - [HTTP - Dicionário do Programador](https://www.youtube.com/watch?v=hwttZtWkXTk) - HTTP do dicionário do programador
-- [HTTP & HTTPS](https://www.youtube.com/watch?v=G9VlDTshk-k) - Diferença entre HTTP & HTTPs 
+- [HTTP & HTTPS](https://www.youtube.com/watch?v=G9VlDTshk-k) - Diferença entre HTTP & HTTPs
 
 ## 🐺 APIs
 
@@ -134,7 +134,6 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [APIs Públicas](https://github.com/public-apis/public-apis) - Uma lista coletiva de APIs gratuitas para uso em software e desenvolvimento web
 - [APIs - Rocketseat](https://app.rocketseat.com.br/node/trabalhando-com-apis) - Curso sobre criação de API's no back-end e consumo de API's no front-end
 - [Criando uma API do Zero com NodeJs](https://www.youtube.com/watch?v=WejbsEnvvRQ&list=PLizN3WA8HR1wWcGsl13Q4Jas4tp-sQaZe&index=1&t=889s) - Como criar uma API do zero utilizando o Node.js
-
 
 ## 🐱 JavaScript
 
@@ -152,7 +151,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Redux com React - Origamid](https://www.origamid.com/curso/redux-com-react/) - Curso de Redux com React da Origamid
 - [Cursos de React - Guia Extenso](https://github.com/arthurspk/guiadevbrasil#-cursos-de-react) - Cursos de React do repositório geral do Guia Dev Brasil.
 
-## 🐯 Node 
+## 🐯 Node
 
 > O Node. js é um ambiente de execução na porta 80 padrão,baseado na pilha da web aberta (HTML, CSS e JS). Ou seja, é uma plataforma em que é possível criar aplicações Javascript sem depender de um browser para a execução. Sua execução em single-thread não exige resposta a cada requisição.
 
@@ -164,7 +163,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Javascript & Node.js: Do baixo ao alto nível](https://www.youtube.com/watch?v=M6wLBpzSvqw&t=1s)
 - [Node.js: Iniciando da teoria à prática](https://www.youtube.com/watch?v=DiXbJL3iWVs&t=1s)
 - [Node.js em 2022](https://www.youtube.com/watch?v=fm4_EuCsQwg)
-- [API NodeJS + Express + Mongo | Estrutura e cadastro  ](https://www.youtube.com/watch?v=BN_8bCfVp88&t=1s)
+- [API NodeJS + Express + Mongo | Estrutura e cadastro ](https://www.youtube.com/watch?v=BN_8bCfVp88&t=1s)
 - [Crie uma API RESTful com Node.js e MongoDB | CRUD com Node, Express e Mongoose](https://www.youtube.com/watch?v=K5QaTfE5ylk)
 - [Curso de Node.js - Playlist 1](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
 - [REST API com Node.js - Playlist 2](https://www.youtube.com/playlist?list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR)
@@ -173,7 +172,6 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Node.js & Lógica de Programação - Playlist 5](https://www.youtube.com/playlist?list=PLfvOpw8k80WqZsXphHeeSVNKr6EovKir-)
 - [Node.js & MongoDB - Playlist 6](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V)
 - [API em Node.js + TS com Programação Funcional - Playlist 7](https://www.youtube.com/playlist?list=PLr4c053wuXU_2sufpBUxu3bLRBbyWt4lX)
-
 
 ## 🦊 Express
 
@@ -225,4 +223,4 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 > O Yarn é um sistema de empacotamento de software desenvolvido em 2016 pelo Facebook para o ambiente de tempo de execução JavaScript Node.js que fornece velocidade, consistência, estabilidade e segurança como uma alternativa ao npm (gerenciador de pacotes).
 
-- [Yarn VS NPM, qual é melhor?](https://www.youtube.com/watch?v=vxES6rbrd-U)
+- [Yarn VS NPM, qual é a melhor?](https://www.youtube.com/watch?v=vxES6rbrd-U)

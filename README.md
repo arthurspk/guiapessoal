@@ -34,21 +34,21 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 📚 ÍNDICE
 
-- [📃 Seções do Repositório](#) <br>
-- [📃 Documentação Técnica](#) <br>
-- [☁️ Serviços de Nuvem](#) <br>
-- [🔗 Pré-processadores](#) <br>
-- [📜 APIs & Arquitetura](#) <br>
-- [📦 Gerenciadores de Pacotes](#) <br>
-- [🧪 Testes Unitários](#) <br>
-- [🎲 Banco de Dados](#) <br>
-- [💾 Sistemas Operacionais](#) <br>
-- [📚 Conteúdo Complementar](#) <br>
-- [🧑🏻‍💻 Linguagens & Tecnologias](#) <br>
-- [🎨 Design & UX/UI](#) <br>
-- [🛠️ Ferramentas & Extensões](#) <br>
-- [🗂️ Frameworks & Bibliotecas](#) <br>
-- [🕵🏻 Segurança da Informação](#) <br>
+- [📃 Seções do Repositório](#-seções-do-repositório) <br>
+- [📃 Documentação Técnica](#-documentação-técnica) <br>
+- [☁️ Serviços de Nuvem](#%EF%B8%8F-serviços-de-nuvem) <br>
+- [🔗 Pré-processadores](#-pré-processadores) <br>
+- [📜 APIs & Arquitetura](#-apis--arquitetura) <br>
+- [📦 Gerenciadores de Pacotes](#-gerenciadores-de-pacotes) <br>
+- [🧪 Testes Unitários](#-testes-unitários) <br>
+- [🎲 Banco de Dados](#-banco-de-dados) <br>
+- [💾 Sistemas Operacionais](#-sistemas-operacionais) <br>
+- [📚 Conteúdo Complementar](#-conteúdo-complementar) <br>
+- [🧑🏻‍💻 Linguagens & Tecnologias](#-linguagens--tecnologias) <br>
+- [🎨 Design & UX/UI](#-design--uxui) <br>
+- [🛠️ Ferramentas & Extensões](#%EF%B8%8F-ferramentas--extensões) <br>
+- [🗂️ Frameworks & Bibliotecas](#%EF%B8%8F-frameworks--bibliotecas) <br>
+- [🕵🏻 Segurança da Informação](#-segurança-da-informação) <br>
 
 ## 📝 Anotações & Estudo
 
@@ -76,12 +76,16 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 📃 Documentação Técnica
 
 > Seção de estudos que irá encaminhar você para aba de documentação técnica.
+
 - [Mermaid.js](#)
-- [Unified Modeling Language (UML)](h#)
+- [Unified Modeling Language (UML)](#)
+- [Smooth Documentation](#)
+- [Docusaurus](#)
 
 ## ☁️ Serviços de Nuvem
 
 > Seção de estudos que irá encaminhar você para aba de serviços de nuvem.
+
 - [Amazon Web Services, Inc.](#)
 - [Google Cloud Platform](#)
 - [Microsoft Azure](#)
@@ -89,6 +93,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 🔗 Pré-processadores
 
 > Seção de estudos que irá encaminhar você para aba de serviços de nuvem.
+
 - [SaSS](#)
 - [Less](#)
 - [Stylus](#)
@@ -96,12 +101,15 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 📜 APIs & Arquitetura
 
 > Seção de estudos que irá encaminhar você para aba de APIs e arquitetura.
+
 - [API Rest](#)
 - [API GraphQL](#)
+- [API Soap](#)
 
 ## 📦 Gerenciadores de Pacotes
 
 > Seção de estudos que irá encaminhar você para aba de gereciadores de pacotes.
+
 - [NPM](#)
 - [pNpm](#)
 - [Yarn](#)
@@ -110,16 +118,19 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 🧪 Testes Unitários
 
 > Seção de estudos que irá encaminhar você para aba de testes unitários.
+
 - [AVA](#)
 - [Jest](#)
 - [Mocha](#)
 - [VItest](#)
 - [Jasmine](#)
+- [Cypress](#)
 - [Puppeteer](#)
 
 ## 🎲 Banco de Dados
 
 > Seção de estudos que irá encaminhar você para aba de banco de dados.
+
 - [SQL](#)
 - [MySQL](#)
 - [MongoDB](#)
@@ -129,11 +140,11 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 💾 Sistemas Operacionais
 
 > Seção de estudos que irá encaminhar você para aba de sistemas operacionais.
+
 - [Windows](#)
 - [Windows Server](#)
 - [Ubuntu](#)
 - [Debian](#)
-- [Black Arch](#)
 - [Kali Linux](#)
 - [Parrot Security](#)
 - [MacOS OS X](#)
@@ -141,6 +152,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 📚 Conteúdo Complementar
 
 > Seção de estudos que irá encaminhar você para aba de conteúdo complementar.
+
 - [Algoritmos](#)
 - [Redes de Computadores](#)
 - [Arquitetura de Redes](#)
@@ -152,6 +164,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 🧑🏻‍💻 Linguagens & Tecnologias
 
 > Seção de estudos que irá encaminhar você para aba de linguagens e tecnologias.
+
 - [C](#)
 - [C#](#)
 - [C++](#)
@@ -170,6 +183,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 🎨 Design & UX/UI
 
 > Seção de estudos que irá encaminhar você para aba de design e ux/ui.
+
 - [Figma](#)
 - [Canva](#)
 - [Adobe XD](#)
@@ -181,22 +195,22 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 ## 🛠️ Ferramentas & Extensões
 
 > Seção de estudos que irá encaminhar você para aba ferramentas e extensões.
+
 - [Git](#)
 - [Fig.io](#)
 - [Github](#)
 - [Terminal](#)
-- [Tabnine](#)
 - [Docker](#)
 - [Postman](#)
 - [Insomnia](#)
 - [Virtual Box](#)
-- [Github Copilot](#)
 - [Visual Studio Code](#)
 - [VMWare Workstation Pro](#)
 
 ## 🗂️ Frameworks & Bibliotecas
 
 > Seção de estudos que irá encaminhar você para aba frameworks e bibliotecas.
+
 - [React](#)
 - [Next](#)
 - [Nest](#)
@@ -216,7 +230,7 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [Mantine](#)
 - [NextUI](#)
 - [Daisy UI](#)
-- [WIndi CSS](#)
+- [Windi CSS](#)
 - [Uno CSS](#)
 - [Stitches](#)
 - [Vanilla Extract](#)
@@ -227,7 +241,8 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 
 ## 🕵🏻 Segurança da Informação
 
-> Seção de estudos que irá encaminhar você para aba frameworks e bibliotecas.
+> Seção de estudos que irá encaminhar você para aba segurança da informação.
+
 - [Crowsec EdTech](#)
 - [Desec Security](#)
 - [Solyd Offensive Security](#)

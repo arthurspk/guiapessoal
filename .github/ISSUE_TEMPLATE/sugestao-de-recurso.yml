@@ -1,0 +1,59 @@
+name: 💡 Sugestão de recurso
+description: Sugira uma documentação oficial melhor, um recurso de apoio aos estudos ou uma tecnologia para a stack deste diário.
+title: "[Recurso]: "
+labels: ["sugestão"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado pela sugestão! Leia os critérios em [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) antes de enviar. Este é um diário pessoal de estudos: só aceitamos conteúdo legal, com link funcionando, e a decisão final sobre o que entra na stack é do autor.
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do recurso
+      placeholder: "Ex.: Documentação do Docker em português"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoria
+      options:
+        - Documentação Técnica
+        - Serviços de Nuvem
+        - Pré-processadores
+        - APIs & Arquitetura
+        - Gerenciadores de Pacotes
+        - Testes Unitários
+        - Banco de Dados
+        - Sistemas Operacionais
+        - Conteúdo Complementar
+        - Linguagens & Tecnologias
+        - Design & UX/UI
+        - Ferramentas & Extensões
+        - Frameworks & Bibliotecas
+        - Segurança da Informação
+        - Recursos de apoio aos estudos
+    validations:
+      required: true
+  - type: textarea
+    id: porque
+    attributes:
+      label: Por que incluir?
+      description: Uma ou duas linhas sobre o que é e por que vale o clique. Diga se é gratuito, pago ou em inglês.
+    validations:
+      required: true
+  - type: checkboxes
+    id: criterios
+    attributes:
+      label: Confirmação
+      options:
+        - label: O link está funcionando e o conteúdo é legal (não é material pirateado).
+          required: true
